@@ -1,0 +1,5 @@
+venv/
+creds.py
+.cache
+__pycache__
+data/
