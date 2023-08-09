@@ -13,18 +13,18 @@ import creds  # Import your credentials from a separate file
 def get_user_input():
     return input("Enter the name of the track: ")
 
-#Function that calls the API to search the track the user inputted. Returns a dictionary of the audio features of the user track
+# Function that calls the API to search the track the user inputted. Returns a dictionary of the audio features of the user track
 def make_api_call(client_id, client_secret, user_input):
     # Initialize the Spotify API client with client credentials
     sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
 
-    #Make API call to search for the user's song and extract the audio features of the song if a valid song
-    search_results = sp.search(q=user_input, type='track', limit=1)
+    # Make API call to search for the user's song made by Drake and extract the audio features of the song if a valid song
+    search_results = sp.search(q='track:' + user_input + ' artist:Drake', type='track', limit=1)
     if search_results['tracks']['items']:
         input_track = search_results['tracks']['items'][0]
         input_features = sp.audio_features(input_track['id'])[0]
     else:
-        print("Song not found. Please try another song.")
+        print("Drake song not found. Please try another song.")
         exit()
     return input_features
 
@@ -55,11 +55,11 @@ def recommender(user_features, dataset_features, df_all_cols, n_songs):
     #Get recommended songs using the index
     recommended_songs = df_all_cols.iloc[similar_song_indices]
 
-    return recommended_songs['name'].tolist()
+    return recommended_songs
 
 #Main function that does the song recommendation in the terminal
 def main():
-    DATASET_NAME = 'tracks_features.csv'
+    DATASET_NAME = 'drake_songs_dataset.csv'
 
     #Read in data as a dataframe
     df = pd.read_csv(DATASET_NAME)
@@ -74,14 +74,23 @@ def main():
     #Keeps all columns so that we can extract the recommended song names and artists later
     df_all_cols = df.copy()
 
-    #(DELETE LATER) Use only ~200 rows of data because Drake has less than 200 tracks
-    df = df[:200][selected_features].copy()
-
     #Getting user track
     user_input = get_user_input()
 
     #Make API call to search
     input_features = make_api_call(creds.CLIENT_ID, creds.CLIENT_SECRET, user_input)
+
+    print(input_features)
+
+    #Remove the user's inputted track from original dataset so it isn't recommended later on
+    print(input_features)
+    print(f"Shape before removing input track: {df.shape}")
+    df = df[df['track_uri'] != input_features['uri']]
+    print(f"Shape after removing input track: {df.shape}")
+    
+
+    #Remove unnecessary columns so that data can be properly scaled
+    df = df[selected_features].copy()
 
     #Scale data
     user_features, dataset_features = preprocess_data(input_features, df, selected_features)

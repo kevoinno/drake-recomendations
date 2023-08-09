@@ -7,14 +7,26 @@ import creds  # Import your credentials from a separate file
 # Initialize the Spotify API client with client credentials
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=creds.CLIENT_ID, client_secret=creds.CLIENT_SECRET))
 
-# Step 1: Search for all of Drake's albums
-results = sp.search(q='Drake', type='album', limit=50)  # Limit the search to 50 albums
-albums = results['albums']['items']
+# Search for Drake's albums using his artist ID
+artist_id = '3TVXtAsR1Inumwj472S9r4'
 
-print('Finished searching')
-# Step 2 & 3: Fetch the tracks from each album and the audio features for each track
+# Fetch all of Drake's albums
+offset = 0
+limit = 50
+all_albums = []
+while True:
+    results = sp.artist_albums(artist_id=artist_id, album_type='album,single', limit=limit, offset=offset)
+    albums = results['items']
+    
+    if not albums:
+        break
+    
+    all_albums.extend(albums)
+    offset += limit
+
+# Fetch the tracks from each album and the audio features for each track
 drake_tracks = []
-for album in albums:
+for album in all_albums:
     album_id = album['id']
     album_name = album['name']
 
@@ -27,7 +39,7 @@ for album in albums:
         audio_features = None
         while audio_features is None:
             try:
-                audio_features = sp.audio_features(track_id)[0]
+                audio_features = sp.audio_features(track_id)[0]  # Access the first element of the list
             except spotipy.exceptions.SpotifyException as e:
                 if e.http_status == 429:
                     print("Rate limited. Waiting for 10 seconds before retrying...")
@@ -52,7 +64,7 @@ for album in albums:
             'tempo': audio_features['tempo'],
         })
 
-# Step 7: Assemble the data into a DataFrame
+# Assemble the data into a DataFrame
 df = pd.DataFrame(drake_tracks)
 
 # Export the DataFrame to a CSV file
