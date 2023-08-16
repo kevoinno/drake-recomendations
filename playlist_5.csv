@@ -1,0 +1,349 @@
+track_uri,track_name,duration_ms,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+spotify:track:047fCsbO4NdmwCBn8pcUXl,Marvins Room,347227,0.492,0.26,9,-17.341,0.0921,0.646,0.00178,0.0705,0.312,111.519
+spotify:track:2Gnsof1hvZzjE1xdLRpjtf,Over My Dead Body,272573,0.489,0.57,1,-10.291,0.306,0.759,2.1e-06,0.179,0.584,185.516
+spotify:track:6Z01gUquJsjJC67uNWm6P0,Shot For Me,224720,0.566,0.465,2,-11.714,0.235,0.0555,0.0,0.567,0.177,143.015
+spotify:track:2KvHC9z14GSl4YpkNMX384,Do Not Disturb,283551,0.618,0.693,7,-5.943,0.45,0.246,0.0,0.112,0.454,170.982
+spotify:track:4wVOKKEHUJxHCFFNUWDn0B,Chicago Freestyle (feat. Giveon),220488,0.735,0.449,10,-7.507,0.347,0.629,0.0,0.113,0.0397,122.947
+spotify:track:7JXZq0JgG2zTrSOAgY8VMC,Jungle,320400,0.697,0.235,7,-8.651,0.0534,0.62,0.000144,0.107,0.378,99.947
+spotify:track:0w1ZtnzQmtmuuoKxHT0pLL,Summer Games,247893,0.776,0.482,1,-11.268,0.0356,0.481,0.0457,0.11,0.128,136.015
+spotify:track:0GaBIpyHvytM1UBYmqXu08,From Time,322160,0.739,0.491,1,-9.726,0.413,0.626,0.0,0.126,0.448,94.391
+spotify:track:124NFj84ppZ5pAxTuVQYCQ,Take Care,277387,0.629,0.515,0,-10.358,0.265,0.0267,1.22e-05,0.0888,0.299,121.845
+spotify:track:6UgxOrbHWJeqHvh0ost7Aa,Too Much,261853,0.681,0.569,6,-5.859,0.546,0.173,0.0,0.18,0.147,140.532
+spotify:track:0Tacxc5lDJ8LwiO1pWNSl8,The Motion,240957,0.631,0.788,4,-7.142,0.102,0.371,0.000317,0.108,0.544,157.769
+spotify:track:3sMC6vfTTSa0mMAPTwzDVD,I Get Lonely,253562,0.477,0.501,11,-9.178,0.0398,0.706,5.61e-06,0.0953,0.689,81.376
+spotify:track:4alHkxxwAhvoGg3dJCATKV,My Side,294651,0.549,0.495,6,-5.661,0.133,0.603,7.26e-06,0.0979,0.385,81.012
+spotify:track:6MR5IBSNfDmiwnrlQpVw4w,Club Paradise,283816,0.338,0.729,6,-6.419,0.102,0.758,3.24e-05,0.18,0.543,184.174
+spotify:track:73IE87H0g2MBmdn41lkVto,Paris Morton Music,251240,0.505,0.494,10,-8.635,0.315,0.414,7.98e-05,0.105,0.141,171.978
+spotify:track:6fLVTVaHWaEfVKfEgbkf4D,Losses,271184,0.551,0.57,1,-7.385,0.351,0.28,0.0,0.424,0.505,85.687
+spotify:track:0YkUwXxnTkeJBvt5upeEtP,From Florida With Love,234783,0.787,0.477,6,-7.837,0.199,0.768,0.0,0.104,0.476,80.506
+spotify:track:3e0ZGE7Gp034iLknjQk4QW,Can I,189289,0.643,0.178,4,-8.56,0.0588,0.484,0.0108,0.122,0.0674,85.042
+spotify:track:1PDP7mLiAMwhfmgIwzhOm2,Yebba’s Heartbreak,133763,0.476,0.161,8,-11.665,0.0407,0.967,0.0381,0.109,0.0908,119.614
+spotify:track:4eSGSqP2TZvvX0kadZZttM,Doing It Wrong,265120,0.397,0.172,6,-15.698,0.0445,0.841,6.78e-05,0.108,0.123,101.275
+spotify:track:7t1lBIr3WIEtqQEOdZFMUf,Look What You've Done,301960,0.495,0.351,3,-14.669,0.34,0.485,0.0,0.0967,0.271,134.369
+spotify:track:74atKkOasLOVzvqB6mYgga,The Real Her,321080,0.567,0.309,8,-14.254,0.385,0.166,0.0,0.12,0.509,65.041
+spotify:track:3Q4gttWQ6hxqWOa3tHoTNi,Not You Too (feat. Chris Brown),269680,0.458,0.452,9,-9.299,0.047,0.342,1.94e-05,0.0703,0.316,86.318
+spotify:track:2Q3jFbyE61mCjS3SkW4toJ,Race My Mind,269884,0.488,0.635,10,-7.19,0.26,0.179,8.16e-06,0.156,0.783,174.072
+spotify:track:2FbGlEPAjNhWvrVvlentVq,Cameras / Good Ones Go Interlude - Medley,434960,0.441,0.403,2,-11.18,0.147,0.255,1.27e-05,0.13,0.158,139.92
+spotify:track:3cjF2OFRmip8spwZYQRKxP,Feel No Ways,240653,0.582,0.677,7,-7.081,0.172,0.0312,6.6e-06,0.122,0.205,193.818
+spotify:track:2Na0z2gfN67Rzf0vp74Wi3,Lose You,305374,0.526,0.583,4,-9.172,0.376,0.699,0.0,0.372,0.378,89.837
+spotify:track:4cRBqWBjuccCowYVHFlXK6,Redemption,333947,0.694,0.314,0,-7.82,0.116,0.611,2.07e-06,0.117,0.341,119.905
+spotify:track:6MbH1QiphMCPTqVEVC7UYi,Nothings Into Somethings,153725,0.766,0.234,11,-7.544,0.159,0.332,0.00156,0.358,0.256,96.882
+spotify:track:6s64FyS9n0XYbGMLH3LOWU,Furthest Thing,267373,0.485,0.78,9,-5.261,0.142,0.149,0.0,0.0568,0.267,136.972
+spotify:track:4BhGTc3Cgay2U1QcTS7vQe,Fire & Desire,238120,0.722,0.252,1,-14.411,0.0761,0.0671,0.0,0.0852,0.275,79.923
+spotify:track:4Wjhj0WjkyECccfHVIgaTq,Trust Issues,281519,0.421,0.539,11,-5.456,0.274,0.779,0.0,0.111,0.523,89.177
+spotify:track:4c2xt1trwYZpMqPWY35Xi9,Jaded,262453,0.764,0.271,0,-5.697,0.0414,0.037,0.0,0.175,0.0371,116.019
+spotify:track:4czcw3NVLY0of5hTD7OufN,Days in The East,353698,0.733,0.361,1,-11.129,0.135,0.348,0.000285,0.0942,0.0361,94.902
+spotify:track:6n3HGiq4v35D6eFOSwqYuo,Teenage Fever,219692,0.766,0.283,8,-10.33,0.0846,0.111,0.0172,0.115,0.144,97.04
+spotify:track:7aRCf5cLOFN1U7kvtChY1G,Search & Rescue,272113,0.817,0.44,10,-8.482,0.0734,0.0603,1.42e-06,0.33,0.544,142.024
+spotify:track:7GeTsDIc5ykNB6lORO6Cee,Circo Loco,236795,0.734,0.605,1,-8.476,0.0699,0.0102,0.0,0.317,0.252,103.976
+spotify:track:3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),218365,0.529,0.673,0,-4.711,0.175,0.000307,2.41e-06,0.093,0.366,165.921
+spotify:track:4rmVZajAF7PkrCagGPHbqa,Sticky,243228,0.853,0.495,6,-14.63,0.14,0.0917,0.000217,0.0844,0.0774,137.027
+spotify:track:28JBD8p18xNuOfyV7Cotdn,Massive,336924,0.499,0.671,4,-6.774,0.0561,0.114,0.0169,0.148,0.0557,124.994
+spotify:track:40iJIUlhi6renaREYGeIDS,Fair Trade (with Travis Scott),291175,0.666,0.465,1,-8.545,0.26,0.0503,0.0,0.215,0.292,167.937
+spotify:track:0k1WUmIRnG3xU6fvvDVfRG,Way 2 Sexy (with Future & Young Thug),257605,0.803,0.597,11,-6.035,0.141,0.000619,4.5e-06,0.323,0.331,136.008
+spotify:track:2tUL6dZf1mywCj5WvCPZw6,No Friends In The Industry,204347,0.84,0.744,1,-4.751,0.113,0.0181,0.0,0.629,0.171,83.737
+spotify:track:3aQem4jVGdhtg116TmJnHz,What’s Next,178154,0.781,0.594,0,-6.959,0.0485,0.0136,0.0,0.162,0.0628,129.895
+spotify:track:65OVbaJR5O1RmwOQx0875b,Wants and Needs (feat. Lil Baby),192956,0.578,0.449,1,-6.349,0.286,0.0618,2.17e-06,0.119,0.1,136.006
+spotify:track:7kfTqGMzIHFWeBeOJALzRf,Headlines,235987,0.636,0.566,6,-7.16,0.106,0.365,0.000353,0.0917,0.425,151.894
+spotify:track:6cmV9y1PdQHjHiVtziGaon,Best I Ever Had,257091,0.457,0.855,1,-4.877,0.382,0.204,0.0,0.28,0.59,162.164
+spotify:track:31Q9ZTF9x81BDonlObCbvP,Forever,357707,0.457,0.906,5,-2.278,0.342,0.249,0.0,0.182,0.54,104.02
+spotify:track:5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),205427,0.831,0.502,10,-4.045,0.046,0.101,0.0,0.122,0.101,100.541
+spotify:track:1nFgXsg2CUbyK0BJX9cmfj,Trophies,188320,0.74,0.694,1,-7.488,0.505,0.153,0.0,0.137,0.249,143.894
+spotify:track:05aZ9sAU1YXndHv0FMi9iW,Demons (feat. Fivio Foreign & Sosa Geek),204805,0.543,0.766,0,-3.387,0.343,0.423,0.0,0.155,0.729,106.869
+spotify:track:0XGLsSU6wtfnKXiMNvQr61,Versace (Remix),246047,0.845,0.705,6,-4.271,0.243,0.0218,0.0,0.339,0.334,132.05
+spotify:track:0Di26AbdtizzHkFstPyt7A,No Shopping (feat. Drake),227727,0.895,0.491,10,-10.261,0.246,0.0144,0.000988,0.143,0.249,83.505
+spotify:track:3ejrk4i0LWIofaaBEmwX0A,Stay Schemin,267720,0.448,0.719,7,-4.179,0.291,0.0833,0.0,0.162,0.301,162.09
+spotify:track:2jTujnt0y344ai1rNOywgr,KMT,162638,0.875,0.6,1,-6.818,0.0435,0.0189,0.0143,0.132,0.0906,119.987
+spotify:track:12d5QFwzh60IIHlsSnAvps,10 Bands,177733,0.825,0.756,11,-3.687,0.383,0.265,2.15e-06,0.0762,0.888,172.938
+spotify:track:2ExePm1EBdSJkr4Y4Nc50z,Gyalchester,189230,0.877,0.391,1,-8.196,0.063,0.0317,0.000502,0.0945,0.122,131.018
+spotify:track:3dgQqOiQ9fCKVhNOedd2lf,Started From the Bottom,174120,0.794,0.523,8,-7.829,0.161,0.0331,0.0,0.156,0.56,86.307
+spotify:track:4GVD0FIBo08FSAy3tbIY7g,Pop That,303533,0.734,0.892,2,-1.856,0.125,0.0648,0.0,0.58,0.605,138.031
+spotify:track:1I55Ea0zVoSKs6MqW7DQ3i,War,180000,0.749,0.792,10,-4.151,0.0826,0.292,0.0,0.109,0.239,144.064
+spotify:track:1U4mweNwisxNj23ffuC9gO,Miss Me,305520,0.426,0.862,2,-5.979,0.597,0.0813,0.0,0.34,0.332,100.3
+spotify:track:2bjwRfXMk4uRgOD9IBYl9h,Portland,236615,0.925,0.443,1,-8.216,0.264,0.0172,0.0,0.276,0.35,136.078
+spotify:track:4YJmZfvlheSziXem8HBWrj,Still Here,189853,0.833,0.431,0,-9.604,0.194,0.0267,0.0,0.633,0.224,133.938
+spotify:track:4XoP1AkbOurU9CeZ2rMEz2,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",233787,0.869,0.687,1,-6.816,0.263,0.0208,1e-06,0.114,0.668,96.006
+spotify:track:6T8cJz5lAqGer9GUHGyelE,God's Plan,198960,0.755,0.448,7,-9.587,0.107,0.0283,3.28e-05,0.514,0.318,77.179
+spotify:track:21Bmw8xCfykDBHo2UdjISp,100it Racks (feat. Drake & 2 Chainz),253556,0.821,0.598,10,-9.722,0.12,0.208,0.0616,0.089,0.37,136.999
+spotify:track:04T3yZYt92tBvgqxTdeJxd,I'm Goin In,223701,0.662,0.763,1,-8.455,0.377,0.0389,0.0,0.103,0.566,170.031
+spotify:track:0m1KYWlT6LhFRBDVq9UNx4,HYFR (Hell Ya Fucking Right),206627,0.444,0.627,7,-8.744,0.252,0.123,0.0,0.0795,0.359,98.21
+spotify:track:4Kz4RdRCceaA9VgTqBhBfa,The Motto,181573,0.766,0.442,1,-8.558,0.356,0.000107,6.12e-05,0.111,0.39,201.8
+spotify:track:1EoHEkVcysf4WVDx6r9WzQ,Over,233560,0.325,0.848,7,-5.611,0.279,0.0109,0.0,0.124,0.433,100.093
+spotify:track:0WtVtCK5SEFvyyA5V8D9CI,No Frauds,272453,0.865,0.553,1,-7.012,0.276,0.0788,3.17e-06,0.514,0.443,139.023
+spotify:track:4OURH8h9ylAU1aD4eSspiI,No Complaints,261733,0.911,0.51,2,-10.786,0.185,0.0836,0.0658,0.0797,0.191,123.961
+spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,Look Alive (feat. Drake),181263,0.922,0.581,10,-7.495,0.27,0.00104,5.86e-05,0.105,0.595,140.022
+spotify:track:3V8sM5OOG6YfDuDLa2IIYJ,Used to This (feat. Drake),180520,0.618,0.727,3,-7.224,0.208,0.0312,0.0,0.196,0.401,164.992
+spotify:track:6c2Wepr15iM8q7L05P8Fgh,Right Above It,271947,0.345,0.841,3,-4.348,0.367,0.0435,0.0,0.578,0.461,72.351
+spotify:track:5nN8BwAQDJDguq7Dpd3JQQ,Where Ya At (feat. Drake),208027,0.813,0.453,1,-6.941,0.338,0.0933,0.0,0.14,0.191,161.997
+spotify:track:1cTZMwcBJT0Ka3UJPXOeeN,Nice For What,210926,0.567,0.913,8,-6.471,0.0736,0.0934,0.000124,0.114,0.792,93.35
+spotify:track:7yfg0Eer6UZZt5tZ1XdsWz,Make Me Proud,219893,0.684,0.486,1,-10.155,0.132,0.00268,0.000148,0.157,0.355,131.913
+spotify:track:1D9XLqQp2YYiOxrr5KLb8K,Under Ground Kings,212613,0.487,0.712,8,-7.323,0.27,5.2e-05,0.0,0.198,0.397,156.209
+spotify:track:0IekdWvcDKkcnUyJt0NWga,I'm On One,296147,0.519,0.802,11,-3.449,0.296,0.0606,0.0,0.606,0.414,150.013
+spotify:track:5oVlbbiKGdGeZkWCFy0mqk,No New Friends - SFTB Remix,308333,0.699,0.673,2,-6.337,0.158,0.00595,0.0,0.459,0.231,124.978
+spotify:track:55YHftnlehUQQJoTSLKCxj,Up All Night,234333,0.606,0.809,7,-4.667,0.279,0.00778,1.59e-05,0.336,0.272,156.337
+spotify:track:1H6FVVPoDB5R9SOkPLW2zz,Truffle Butter,219227,0.896,0.674,10,-6.89,0.0499,0.0644,1.83e-05,0.12,0.516,105.096
+spotify:track:6wf85LERx5my0RsMh6tSkT,Back To Back,170638,0.896,0.446,1,-3.876,0.356,0.00994,0.0,0.115,0.35,86.989
+spotify:track:4n7CwZ6jBTP4gFj4WlJxxW,9AM in Dallas - Edited Version,219440,0.506,0.837,5,-5.692,0.3,0.336,0.0,0.281,0.408,117.68
+spotify:track:1wsf1YFQSYND45y0GzJmf7,Yes Indeed,142273,0.964,0.346,5,-9.309,0.53,0.035,0.0,0.108,0.562,119.958
+spotify:track:7txPE73wHbuXYkM1h8zNrG,Mob Ties,205147,0.755,0.575,4,-8.392,0.0673,0.0443,0.00127,0.276,0.493,85.994
+spotify:track:2Vx8E3K5icPZR7OCklWBXX,Nonstop,238613,0.909,0.405,6,-8.133,0.14,0.0306,0.00698,0.105,0.455,154.984
+spotify:track:7cfvP13Bqb1EyCZQiYsLum,Can’t Take A Joke,163973,0.878,0.432,10,-9.852,0.143,0.041,0.0,0.0571,0.441,86.956
+spotify:track:1Jrj3k5L36dPkU6KAclU7g,Blue Tint,162800,0.888,0.377,7,-10.142,0.339,0.0126,0.0,0.19,0.126,133.996
+spotify:track:0bAkKNCQfWkexHFn7fIKns,In My Feelings,217933,0.735,0.482,8,-9.445,0.139,0.00623,0.0144,0.448,0.315,181.995
+spotify:track:1uDjaezEbalGyGnuH80zDK,Who Do You Love?,233507,0.676,0.415,9,-9.752,0.508,0.0281,0.0,0.0915,0.146,193.206
+spotify:track:5S1IUPueD0xE0vj4zU3nSf,Bigger Than You (feat. Drake & Quavo),225893,0.888,0.515,1,-6.246,0.271,0.247,0.0,0.446,0.264,141.009
+spotify:track:04MLEeAMuV9IlHEsD8vF6A,No Stylist (feat. Drake),192172,0.765,0.704,5,-4.589,0.127,0.0215,0.0,0.227,0.498,147.055
+spotify:track:6wWaVoUOzLQJHd3bWAUpdZ,"Never Recover (Lil Baby & Gunna, Drake)",194732,0.753,0.686,1,-5.415,0.284,0.0677,0.0,0.193,0.886,132.055
+spotify:track:1rlIrbWboTRGeKfHhgbJRZ,FLIP THE SWITCH (feat. Drake),156195,0.853,0.637,3,-5.924,0.331,0.129,0.0,0.267,0.496,86.048
+spotify:track:0V4l4GQhgnWQGtCWpvA7va,Crew Love,208813,0.418,0.546,0,-9.057,0.238,0.227,0.0,0.229,0.294,160.152
+spotify:track:7udsBKuqnJ5csWTAkR0vEI,We'll Be Fine,247947,0.386,0.488,1,-7.303,0.422,0.00171,0.0,0.64,0.217,193.397
+spotify:track:4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,275227,0.559,0.716,11,-3.964,0.39,0.737,0.0,0.252,0.504,176.618
+spotify:track:5JvcHr1w3lwG09rsaqHECe,No Lie,237800,0.634,0.665,6,-5.984,0.176,0.0172,0.0,0.365,0.611,131.108
+spotify:track:6tcUiiaNZJWAPjnVWqmrL8,Big Amount,188069,0.574,0.822,3,-4.226,0.271,0.0129,0.0,0.106,0.17,133.736
+spotify:track:3kCwyvhvVTyehIzYN2I0nF,Omertà,219507,0.646,0.899,6,-2.232,0.298,0.0337,0.0,0.232,0.685,164.119
+spotify:track:3X37NtwadSS0RM20dh2IgP,Worst Behavior,270200,0.777,0.778,9,-6.349,0.136,0.156,1.08e-06,0.196,0.437,109.925
+spotify:track:3W3FVHEDetkiRkkGKDmdir,Draft Day,266325,0.673,0.81,8,-3.793,0.36,0.0322,0.0,0.133,0.564,166.084
+spotify:track:5lFDtgWsjRJu8fPOAyJIAK,Back To Back,170638,0.893,0.48,1,-3.728,0.356,0.00855,0.0,0.116,0.382,86.976
+spotify:track:6C9SwoZ5OrxcvkntgA5t8s,4pm in Calabasas,240218,0.743,0.66,4,-4.802,0.418,0.115,0.0,0.101,0.549,192.031
+spotify:track:0FnxK9FEAQyPJ284QcieNb,5 Am in Toronto,205264,0.555,0.88,11,-4.325,0.265,0.0678,0.0,0.0723,0.391,87.195
+spotify:track:2xUHiyGeGrWmmfv7NbDTWC,Jodeci Freestyle (feat. J. Cole),254022,0.498,0.844,2,-2.834,0.268,0.0111,0.0,0.102,0.282,88.435
+spotify:track:18t8ypY0HYaQuGBxg2KdT2,Free Spirit (feat. Rick Ross),252884,0.508,0.748,1,-4.997,0.33,0.281,0.0,0.168,0.225,100.414
+spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc,Life Is Good (feat. Drake),237735,0.676,0.609,2,-5.831,0.481,0.0706,0.0,0.152,0.508,142.037
+spotify:track:466cKvZn1j45IpxDdYZqdA,Toosie Slide,247059,0.83,0.49,1,-8.82,0.209,0.289,3.04e-06,0.113,0.845,81.604
+spotify:track:4OENnoidV0h8gJV6bhrw7r,Only You Freestyle,248937,0.68,0.826,5,-2.561,0.27,0.562,0.0,0.254,0.804,146.95
+spotify:track:6EDO9iiTtwNv6waLwa1UUq,POPSTAR (feat. Drake),200221,0.8,0.56,5,-4.818,0.261,0.057,0.0,0.134,0.45,163.071
+spotify:track:35RJhm1pEovTBwnNR0zWad,GREECE (feat. Drake),218902,0.695,0.343,5,-10.798,0.0432,0.0743,1.04e-06,0.107,0.229,85.84
+spotify:track:2SAqBLGA283SUiwJ3xOUVI,Laugh Now Cry Later (feat. Lil Durk),261493,0.761,0.518,0,-8.871,0.134,0.244,3.47e-05,0.107,0.522,133.976
+spotify:track:5e574bhjycX1eH2l4Auage,Grammys,220427,0.676,0.432,1,-9.51,0.502,0.00163,3.84e-06,0.0799,0.12,145.869
+spotify:track:7gNB9Xa5NBY2Y8tFmpOlwk,Seeing Green (with Drake & Lil Wayne),339506,0.465,0.859,5,-2.893,0.225,0.0762,5.18e-06,0.377,0.208,72.193
+spotify:track:6rTInqW3YECMkQsBEHw4sd,Solid (feat. Drake),215693,0.887,0.485,11,-9.358,0.2,0.0392,0.0,0.141,0.328,125.987
+spotify:track:4mOkfIYbMX9PXx27hj8NTi,Betrayal (feat. Drake),152025,0.74,0.564,8,-6.71,0.0688,0.0126,0.0,0.126,0.129,158.114
+spotify:track:1bDbXMyjaUIooNwFE9wn0N,Rich Flex,239360,0.561,0.52,11,-9.342,0.244,0.0503,1.86e-06,0.355,0.424,153.15
+spotify:track:1PDP7mLiAMwhfmgIwzhOm2,Yebba’s Heartbreak,133763,0.476,0.161,8,-11.665,0.0407,0.967,0.0381,0.109,0.0908,119.614
+spotify:track:4VCbgIdr8ptegWeJpqLVHH,Love All (with JAY-Z),228461,0.73,0.576,2,-5.442,0.287,0.354,3.59e-05,0.15,0.155,92.131
+spotify:track:4s7QLoImIwmPi9L6dq1nVW,TSU,308756,0.568,0.56,9,-9.059,0.42,0.228,3.05e-06,0.39,0.246,130.019
+spotify:track:3RkNXZvOSMMElmmXztDc94,F*****g Fans,245131,0.783,0.416,4,-9.84,0.135,0.213,0.0,0.103,0.165,87.073
+spotify:track:37Nqx7iavZpotJSDXZWbJ3,Girls Want Girls (with Lil Baby),221980,0.767,0.438,7,-8.726,0.29,0.181,0.0,0.142,0.381,86.975
+spotify:track:34D6FJysnQioVingDKufuf,N 2 Deep,273578,0.507,0.429,2,-7.726,0.326,0.0518,0.0,0.109,0.0744,91.0
+spotify:track:7F9cT6hIRhnFCYP6GKS0tf,IMY2 (with Kid Cudi),252379,0.59,0.493,7,-8.704,0.0367,0.402,0.00504,0.129,0.0498,150.026
+spotify:track:2Q3jFbyE61mCjS3SkW4toJ,Race My Mind,269884,0.488,0.635,10,-7.19,0.26,0.179,8.16e-06,0.156,0.783,174.072
+spotify:track:08XWh5c0BMyD1nKVxxl91z,Fountains (with Tems),192418,0.843,0.485,10,-8.735,0.195,0.181,0.0675,0.107,0.689,100.053
+spotify:track:4cRBqWBjuccCowYVHFlXK6,Redemption,333947,0.694,0.314,0,-7.82,0.116,0.611,2.07e-06,0.117,0.341,119.905
+spotify:track:4xRxYWgAtL6pzRz94GlZlA,The Ride,351000,0.556,0.702,0,-10.079,0.205,0.517,0.0,0.343,0.793,155.948
+spotify:track:0PXp9QxBfSKGGpWUNaws2X,Drama (feat. Drake),251860,0.709,0.362,11,-9.814,0.055,0.157,0.0,0.109,0.113,122.043
+spotify:track:5s0e986tlNvseDl2YydUc6,ALL I NEED (feat. Drake),177899,0.573,0.427,10,-9.0,0.05,0.0675,9.25e-05,0.101,0.127,91.405
+spotify:track:59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),189893,0.463,0.642,1,-4.474,0.34,0.314,0.0,0.0686,0.339,83.389
+spotify:track:4SCnCPOUOUXUmCX2uHb3r7,Outta Time (feat. Drake),198822,0.714,0.582,5,-7.272,0.0808,0.0129,0.0,0.0774,0.338,92.819
+spotify:track:7bPLo5Fv7h15E2fW3g1mVQ,Wanna Know Remix (feat. Drake),199020,0.717,0.507,4,-8.595,0.0445,0.0741,3.21e-05,0.241,0.198,100.017
+spotify:track:6XHVuErjQ4XNm6nDPVCxVX,No Guidance (feat. Drake),260640,0.696,0.454,1,-6.756,0.153,0.123,0.0,0.155,0.136,92.928
+spotify:track:1rX5L6pyl3rVWb55D8Cprr,Gold Roses (feat. Drake),349600,0.502,0.633,1,-5.8,0.419,0.00991,0.0,0.389,0.552,83.226
+spotify:track:14SaZBTjxlorHJQxXh01Hu,Girls Need Love (with Drake) - Remix,222374,0.656,0.432,6,-9.481,0.217,0.443,0.0,0.132,0.0897,97.022
+spotify:track:61S79KIVA4I9FXbnsylEHT,In The Bible (with Lil Durk & Giveon),296568,0.686,0.385,7,-8.35,0.297,0.614,0.0,0.131,0.147,143.07
+spotify:track:3e0ZGE7Gp034iLknjQk4QW,Can I,189289,0.643,0.178,4,-8.56,0.0588,0.484,0.0108,0.122,0.0674,85.042
+spotify:track:4PA16FAl8LPmFmOhARawdV,Weston Road Flows,253533,0.623,0.74,1,-6.942,0.307,0.0635,0.0,0.366,0.35,82.877
+spotify:track:3O8NlPh2LByMU9lSRSHedm,Controlla,245227,0.59,0.468,10,-11.083,0.185,0.0789,0.0,0.101,0.349,92.287
+spotify:track:3ppVO2tyWRRznNmONvt7Se,Summers Over Interlude,106333,0.699,0.255,4,-8.647,0.0303,0.405,0.00242,0.0985,0.242,132.031
+spotify:track:0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,267067,0.891,0.628,2,-7.863,0.0551,0.00258,0.00019,0.0504,0.552,134.966
+spotify:track:5rn98Px14UpOBtDuhZAAvV,Weston Road Flows,253533,0.62,0.722,1,-7.022,0.322,0.0733,0.0,0.273,0.365,82.918
+spotify:track:3cjF2OFRmip8spwZYQRKxP,Feel No Ways,240653,0.582,0.677,7,-7.081,0.172,0.0312,6.6e-06,0.122,0.205,193.818
+spotify:track:4FRW5Nza1Ym91BGV4nFWXI,Lemon Pepper Freestyle (feat. Rick Ross),383037,0.77,0.637,1,-5.53,0.345,0.103,0.0,0.171,0.431,94.966
+spotify:track:4BhGTc3Cgay2U1QcTS7vQe,Fire & Desire,238120,0.722,0.252,1,-14.411,0.0761,0.0671,0.0,0.0852,0.275,79.923
+spotify:track:3Kwdm0iLyEiRB8InsZoo6n,Talk To Me,227706,0.773,0.281,1,-9.781,0.11,0.24,0.0,0.112,0.465,102.019
+spotify:track:1wZqJM5FGDEl3FjHDxDyQd,Come and See Me (feat. Drake),235477,0.717,0.347,11,-10.265,0.0636,0.0511,2.43e-06,0.087,0.0589,84.987
+spotify:track:5wUUWVRvrciJqFitZF8R0P,Recognize (feat. Drake),311197,0.643,0.541,2,-5.801,0.0426,0.0102,0.0,0.102,0.165,119.499
+spotify:track:2aSC2xhRxOLiiZZVjhbylH,"Hold On, We're Going Home",227880,0.777,0.414,6,-7.44,0.0946,0.00421,2.73e-05,0.0724,0.287,100.002
+spotify:track:6s64FyS9n0XYbGMLH3LOWU,Furthest Thing,267373,0.485,0.78,9,-5.261,0.142,0.149,0.0,0.0568,0.267,136.972
+spotify:track:1HnhCD1u0c4dHSMazmWGyM,Wu-Tang Forever,217600,0.855,0.433,1,-8.447,0.15,0.0414,0.0,0.1,0.394,99.975
+spotify:track:5LnXWeA9tuWKI2C1H74iiJ,Too Much,261867,0.668,0.565,6,-5.879,0.505,0.171,0.0,0.124,0.142,140.489
+spotify:track:047fCsbO4NdmwCBn8pcUXl,Marvins Room,347227,0.492,0.26,9,-17.341,0.0921,0.646,0.00178,0.0705,0.312,111.519
+spotify:track:1ZyudLFv35SRvY5SvTZqJx,Buried Alive Interlude,150960,0.711,0.543,0,-12.692,0.112,0.412,0.0,0.505,0.801,102.01
+spotify:track:4Wjhj0WjkyECccfHVIgaTq,Trust Issues,281519,0.421,0.539,11,-5.456,0.274,0.779,0.0,0.111,0.523,89.177
+spotify:track:4zLOwx1yRJXWkHKt1XzF1p,Now & Forever,281320,0.555,0.481,6,-7.419,0.0322,0.124,0.0,0.101,0.098,107.793
+spotify:track:7JXZq0JgG2zTrSOAgY8VMC,Jungle,320400,0.697,0.235,7,-8.651,0.0534,0.62,0.000144,0.107,0.378,99.947
+spotify:track:5mCPDVBb16L4XQwDdbRUpz,Passionfruit,298941,0.809,0.463,11,-11.377,0.0396,0.256,0.085,0.109,0.364,111.98
+spotify:track:13e6f8t7RKXuxZ0JdaaJRG,Jorja Interlude,107673,0.735,0.373,11,-10.478,0.104,0.762,0.00202,0.288,0.237,123.081
+spotify:track:2fkeWbM6iqTw7oGHTYm2lw,4422,186293,0.609,0.229,11,-12.36,0.0333,0.558,0.0413,0.113,0.19,111.887
+spotify:track:6MbH1QiphMCPTqVEVC7UYi,Nothings Into Somethings,153725,0.766,0.234,11,-7.544,0.159,0.332,0.00156,0.358,0.256,96.882
+spotify:track:6n3HGiq4v35D6eFOSwqYuo,Teenage Fever,219692,0.766,0.283,8,-10.33,0.0846,0.111,0.0172,0.115,0.144,97.04
+spotify:track:2Na0z2gfN67Rzf0vp74Wi3,Lose You,305374,0.526,0.583,4,-9.172,0.376,0.699,0.0,0.372,0.378,89.837
+spotify:track:1OHoBC4icbuNhpSxP400sv,Preach,236973,0.605,0.51,11,-8.094,0.423,0.165,8.8e-05,0.104,0.389,65.255
+spotify:track:5JUu0unA8VwhTZ9LkMWUVI,Since Way Back,368036,0.468,0.266,0,-11.121,0.13,0.348,9.55e-06,0.209,0.222,153.294
+spotify:track:2KvHC9z14GSl4YpkNMX384,Do Not Disturb,283551,0.618,0.693,7,-5.943,0.45,0.246,0.0,0.112,0.454,170.982
+spotify:track:4c2xt1trwYZpMqPWY35Xi9,Jaded,262453,0.764,0.271,0,-5.697,0.0414,0.037,0.0,0.175,0.0371,116.019
+spotify:track:6cblRiEGDRNZgowcm951R3,Sandra’s Rose,216333,0.486,0.849,1,-5.432,0.246,0.0481,0.0,0.143,0.519,152.086
+spotify:track:2WP8G2pdddDmnh1xbfKBOI,Finesse,182080,0.807,0.319,0,-8.152,0.0581,0.133,0.000338,0.101,0.299,94.992
+spotify:track:5TCBWmEBrin7etRa4Lswr1,When To Say When,223124,0.41,0.82,1,-6.808,0.533,0.252,0.0,0.538,0.526,170.718
+spotify:track:4wVOKKEHUJxHCFFNUWDn0B,Chicago Freestyle (feat. Giveon),220488,0.735,0.449,10,-7.507,0.347,0.629,0.0,0.113,0.0397,122.947
+spotify:track:3Q4gttWQ6hxqWOa3tHoTNi,Not You Too (feat. Chris Brown),269680,0.458,0.452,9,-9.299,0.047,0.342,1.94e-05,0.0703,0.316,86.318
+spotify:track:7eYAHC0RbBF9eaqWzT34Aq,Desires (with Future),237946,0.812,0.506,5,-7.706,0.116,0.281,0.0,0.325,0.554,145.074
+spotify:track:5H4mXWKcicuLKDn4Jy0sK7,Time Flies,192932,0.864,0.477,10,-5.786,0.224,0.201,0.0,0.182,0.5,86.46
+spotify:track:6fLVTVaHWaEfVKfEgbkf4D,Losses,271184,0.551,0.57,1,-7.385,0.351,0.28,0.0,0.424,0.505,85.687
+spotify:track:2yg9UN4eo5eMVJ7OB4RWj3,Survival,136187,0.555,0.596,9,-9.09,0.375,0.133,0.0,0.123,0.145,77.324
+spotify:track:35RJhm1pEovTBwnNR0zWad,GREECE (feat. Drake),218902,0.695,0.343,5,-10.798,0.0432,0.0743,1.04e-06,0.107,0.229,85.84
+spotify:track:2vy9Ry1TNjCD85TiCbTz0r,Liability,237933,0.557,0.706,0,-6.592,0.0649,0.268,0.0,0.132,0.582,105.013
+spotify:track:76kyKtPLsFbQkdQ86QrkF4,Plastic Bag,202085,0.845,0.479,1,-6.065,0.298,0.0104,1.79e-06,0.157,0.35,170.919
+spotify:track:4rmVZajAF7PkrCagGPHbqa,Sticky,243228,0.853,0.495,6,-14.63,0.14,0.0917,0.000217,0.0844,0.0774,137.027
+spotify:track:0V4l4GQhgnWQGtCWpvA7va,Crew Love,208813,0.418,0.546,0,-9.057,0.238,0.227,0.0,0.229,0.294,160.152
+spotify:track:1v24T2ug4TlssYZvI3aL4O,Lust For Life,176179,0.462,0.422,6,-10.381,0.175,0.939,0.0327,0.108,0.0853,87.364
+spotify:track:1cCXT1cErAY6tmIqHbodrt,The Remorse,351220,0.473,0.53,0,-8.506,0.249,0.812,6.92e-06,0.227,0.637,74.732
+spotify:track:6Yj7Zhxt73uvwFFvzQXdxO,Flight's Booked,254407,0.593,0.41,3,-13.097,0.0531,0.886,0.0993,0.115,0.201,122.584
+spotify:track:3aJkV6DUTSCqOwVwaBDG9B,With You,195053,0.878,0.406,1,-9.961,0.248,0.134,0.000234,0.112,0.784,128.014
+spotify:track:5ScbulRnixQ2XAdvrPMFjz,Get Along Better,229304,0.32,0.466,8,-6.77,0.0374,0.00645,0.0,0.133,0.338,177.693
+spotify:track:40iJIUlhi6renaREYGeIDS,Fair Trade (with Travis Scott),291175,0.666,0.465,1,-8.545,0.26,0.0503,0.0,0.215,0.292,167.937
+spotify:track:7hRlTK3mgFTBEjX7DjqBsI,Overdrive,202451,0.502,0.645,2,-10.611,0.122,0.444,0.00964,0.107,0.518,109.739
+spotify:track:3EMp20j5E42MxfFbsEsIvD,Churchill Downs (feat. Drake),309327,0.71,0.522,11,-9.102,0.36,0.615,0.0,0.11,0.37,96.448
+spotify:track:2QoOyCFpDo4NblMLP7vBRT,Is There More,226920,0.636,0.538,1,-7.725,0.312,0.738,0.0,0.149,0.514,83.508
+spotify:track:0zqy3ss4CwD6u4QPksS0nI,8 Out Of 10,195720,0.527,0.689,2,-7.87,0.741,0.161,0.0,0.498,0.31,170.538
+spotify:track:1XsRwo2it6QHdV2OiT6IzF,Tie That Binds,336005,0.775,0.688,4,-10.912,0.0593,0.0176,0.0917,0.108,0.284,120.017
+spotify:track:1HDaPtZuixue2q6VGNRdVO,Pound Cake / Paris Morton Music 2,433800,0.521,0.762,2,-6.75,0.534,0.139,1.11e-05,0.114,0.264,164.289
+spotify:track:1DmnEYXa4WfbdhAPwNzgD8,30 for 30 Freestyle,253935,0.744,0.619,4,-9.143,0.398,0.671,0.0,0.123,0.317,89.252
+spotify:track:5Ggfa9cpkpfp5D6Rg0Yyw1,Come Thru,236360,0.472,0.468,3,-5.815,0.184,0.163,0.0,0.586,0.404,81.94
+spotify:track:3mvYQKm8h6M5K5h0nVPY9S,After Dark (feat. Static Major & Ty Dolla $ign),289560,0.687,0.429,2,-13.075,0.192,0.0407,0.0,0.142,0.336,141.966
+spotify:track:7ijJ5crvsnCvCLJbHpyq3j,Final Fantasy,219960,0.461,0.449,0,-10.998,0.442,0.428,8.29e-06,0.115,0.104,86.505
+spotify:track:6NwhtCYkfwWlcR62Ac4E7y,Successful (feat. Trey Songz & Lil Wayne),375050,0.562,0.544,8,-5.065,0.369,0.536,0.0,0.17,0.231,159.517
+spotify:track:3m62bJJXGyQKdR9XyRocnl,"Two Birds, One Stone",238960,0.529,0.838,8,-2.619,0.212,0.337,0.0,0.127,0.355,88.052
+spotify:track:4XTXamS1g4g93jPxyuFJJ6,Brand New,213492,0.399,0.491,6,-8.992,0.0714,0.631,0.0,0.171,0.356,94.542
+spotify:track:40IiSjljbAhrSbdJ3HxSfH,March 14,309560,0.5,0.419,10,-7.349,0.39,0.4,0.0,0.36,0.313,91.963
+spotify:track:3jipFRgLyKK0oJoG1pKicx,Jaded,262453,0.766,0.272,0,-5.696,0.041,0.0366,0.0,0.175,0.037,116.036
+spotify:track:1v1IXPXl73Z7zy6f5tUa9n,Emotionless,302173,0.413,0.676,1,-5.124,0.213,0.0239,0.0,0.0811,0.0827,173.478
+spotify:track:71SEHJPt1iDwGkBhUOAXDP,Survival,136187,0.685,0.593,9,-9.083,0.284,0.134,0.0,0.123,0.144,84.763
+spotify:track:48WidxP9CqyYtk97pwGZ3c,Wasting Time ( feat. Drake & The Neptunes ),301304,0.443,0.72,7,-3.743,0.0733,0.0669,0.0,0.0909,0.374,89.378
+spotify:track:73IE87H0g2MBmdn41lkVto,Paris Morton Music,251240,0.505,0.494,10,-8.635,0.315,0.414,7.98e-05,0.105,0.141,171.978
+spotify:track:1sPLURKAosM3Jampgp9AWq,Sandra’s Rose,216333,0.487,0.85,1,-5.427,0.25,0.047,0.0,0.142,0.523,152.102
+spotify:track:590bUp2TKTfTS9NfiD4Nmn,Finesse,182080,0.807,0.321,0,-8.147,0.0571,0.132,0.000289,0.1,0.305,94.994
+spotify:track:4czcw3NVLY0of5hTD7OufN,Days in The East,353698,0.733,0.361,1,-11.129,0.135,0.348,0.000285,0.0942,0.0361,94.902
+spotify:track:2WC4sK0ryyysQhtDok9Ytr,From Time,322160,0.737,0.494,1,-9.723,0.416,0.629,0.0,0.126,0.44,94.485
+spotify:track:6EW1fwOk4JHmTZKINZsyjB,B.B. King Freestyle (with Drake),222801,0.664,0.553,11,-8.316,0.415,0.455,0.0,0.181,0.722,87.009
+spotify:track:6MR5IBSNfDmiwnrlQpVw4w,Club Paradise,283816,0.338,0.729,6,-6.419,0.102,0.758,3.24e-05,0.18,0.543,184.174
+spotify:track:11L064movtyopGdLiX4sVg,Peak,206027,0.687,0.218,9,-13.539,0.0388,0.85,0.000125,0.106,0.269,91.991
+spotify:track:0g2Bbgy7P41pFjMWJuzsf4,STAYING ALIVE (feat. Drake & Lil Baby),178176,0.718,0.461,4,-7.676,0.0797,0.068,0.0,0.283,0.181,129.953
+spotify:track:74atKkOasLOVzvqB6mYgga,The Real Her,321080,0.567,0.309,8,-14.254,0.385,0.166,0.0,0.12,0.509,65.041
+spotify:track:410TZrK18uRjtsTunG14cl,Middle of the Ocean,356389,0.466,0.703,4,-5.774,0.393,0.18,0.0,0.422,0.25,76.815
+spotify:track:047fCsbO4NdmwCBn8pcUXl,Marvins Room,347227,0.492,0.26,9,-17.341,0.0921,0.646,0.00178,0.0705,0.312,111.519
+spotify:track:6jdOi5U5LBzQrc4c1VT983,"Hold On, We're Going Home",227880,0.773,0.414,6,-7.436,0.0961,0.00411,3.4e-05,0.0733,0.289,99.993
+spotify:track:2WC4sK0ryyysQhtDok9Ytr,From Time,322160,0.737,0.494,1,-9.723,0.416,0.629,0.0,0.126,0.44,94.485
+spotify:track:6n3HGiq4v35D6eFOSwqYuo,Teenage Fever,219692,0.766,0.283,8,-10.33,0.0846,0.111,0.0172,0.115,0.144,97.04
+spotify:track:2WP8G2pdddDmnh1xbfKBOI,Finesse,182080,0.807,0.319,0,-8.152,0.0581,0.133,0.000338,0.101,0.299,94.992
+spotify:track:4BhGTc3Cgay2U1QcTS7vQe,Fire & Desire,238120,0.722,0.252,1,-14.411,0.0761,0.0671,0.0,0.0852,0.275,79.923
+spotify:track:4eSGSqP2TZvvX0kadZZttM,Doing It Wrong,265120,0.397,0.172,6,-15.698,0.0445,0.841,6.78e-05,0.108,0.123,101.275
+spotify:track:4c2xt1trwYZpMqPWY35Xi9,Jaded,262453,0.764,0.271,0,-5.697,0.0414,0.037,0.0,0.175,0.0371,116.019
+spotify:track:11L064movtyopGdLiX4sVg,Peak,206027,0.687,0.218,9,-13.539,0.0388,0.85,0.000125,0.106,0.269,91.991
+spotify:track:6MbH1QiphMCPTqVEVC7UYi,Nothings Into Somethings,153725,0.766,0.234,11,-7.544,0.159,0.332,0.00156,0.358,0.256,96.882
+spotify:track:3mvYQKm8h6M5K5h0nVPY9S,After Dark (feat. Static Major & Ty Dolla $ign),289560,0.687,0.429,2,-13.075,0.192,0.0407,0.0,0.142,0.336,141.966
+spotify:track:6AaOtHsKd195ec0Y4kC9ER,DnF (feat. Drake & Future),206267,0.721,0.607,0,-7.078,0.277,0.0958,0.0,0.29,0.59,76.987
+spotify:track:1my81o4N4vaHpcMlA3Gj4y,U With Me?,297373,0.442,0.421,2,-11.455,0.137,0.376,7.23e-06,0.139,0.111,87.694
+spotify:track:6F609ICg9Spjrw1epsAnpa,Controlla,245227,0.607,0.476,10,-11.076,0.249,0.0773,0.0,0.113,0.347,122.976
+spotify:track:5mCPDVBb16L4XQwDdbRUpz,Passionfruit,298941,0.809,0.463,11,-11.377,0.0396,0.256,0.085,0.109,0.364,111.98
+spotify:track:2XlHu0HcujBCkWMdIAvrqt,Blem,216558,0.726,0.535,7,-7.804,0.0476,0.0533,1.38e-05,0.0984,0.375,98.067
+spotify:track:7y6c07pgjZvtHI9kuMVqk1,Get It Together,250337,0.781,0.721,5,-9.133,0.0514,0.0945,0.391,0.104,0.849,123.011
+spotify:track:3lkkkYc1wBj5l3FVlpqvP6,A Night Off (feat. Lloyd),193963,0.611,0.508,11,-5.573,0.0741,0.374,3.87e-06,0.168,0.368,103.612
+spotify:track:43iKgGbmfqPLh3mxUlospI,Sooner Than Later,262047,0.616,0.501,5,-5.722,0.24,0.178,1.2e-05,0.105,0.506,94.554
+spotify:track:4XTXamS1g4g93jPxyuFJJ6,Brand New,213492,0.399,0.491,6,-8.992,0.0714,0.631,0.0,0.171,0.356,94.542
+spotify:track:1v24T2ug4TlssYZvI3aL4O,Lust For Life,176179,0.462,0.422,6,-10.381,0.175,0.939,0.0327,0.108,0.0853,87.364
+spotify:track:3sMC6vfTTSa0mMAPTwzDVD,I Get Lonely,253562,0.477,0.501,11,-9.178,0.0398,0.706,5.61e-06,0.0953,0.689,81.376
+spotify:track:6oLHyWvmk6bKrA91EIYZBp,Wednesday Night Interlude,212280,0.312,0.466,9,-8.163,0.0509,0.729,7.34e-06,0.215,0.195,135.44
+spotify:track:4pUUhsc8fmZqnsPaOSU5CP,Fireworks,313267,0.56,0.758,0,-6.472,0.345,0.428,0.0,0.162,0.521,90.52
+spotify:track:76gUmNLXGQVOsGhfcshkFP,Madiba Riddim,205163,0.839,0.521,7,-10.45,0.166,0.245,0.00545,0.607,0.33,105.992
+spotify:track:5H4mXWKcicuLKDn4Jy0sK7,Time Flies,192932,0.864,0.477,10,-5.786,0.224,0.201,0.0,0.182,0.5,86.46
+spotify:track:5EnYT6F7wEcdege6mDHEfO,Signs,234373,0.801,0.727,0,-4.687,0.0606,0.0864,0.00406,0.112,0.218,107.371
+spotify:track:11pEKMLmavDu8fxOB5QjbQ,Pipe Down,205721,0.518,0.69,9,-6.15,0.107,0.128,0.0,0.176,0.59,77.837
+spotify:track:2Q3jFbyE61mCjS3SkW4toJ,Race My Mind,269884,0.488,0.635,10,-7.19,0.26,0.179,8.16e-06,0.156,0.783,174.072
+spotify:track:3Q4gttWQ6hxqWOa3tHoTNi,Not You Too (feat. Chris Brown),269680,0.458,0.452,9,-9.299,0.047,0.342,1.94e-05,0.0703,0.316,86.318
+spotify:track:56NDFbD0tCUawnqeU2wcvv,Girls Love Beyoncé (feat. James Fauntleroy),225012,0.619,0.489,11,-11.25,0.46,0.782,0.0,0.106,0.328,126.046
+spotify:track:6s64FyS9n0XYbGMLH3LOWU,Furthest Thing,267373,0.485,0.78,9,-5.261,0.142,0.149,0.0,0.0568,0.267,136.972
+spotify:track:5LnXWeA9tuWKI2C1H74iiJ,Too Much,261867,0.668,0.565,6,-5.879,0.505,0.171,0.0,0.124,0.142,140.489
+spotify:track:4Wjhj0WjkyECccfHVIgaTq,Trust Issues,281519,0.421,0.539,11,-5.456,0.274,0.779,0.0,0.111,0.523,89.177
+spotify:track:2qLcJOLrh6Djda4uLbldSA,Faithful,290133,0.536,0.449,1,-10.499,0.103,0.11,1.49e-05,0.284,0.171,99.889
+spotify:track:5ScbulRnixQ2XAdvrPMFjz,Get Along Better,229304,0.32,0.466,8,-6.77,0.0374,0.00645,0.0,0.133,0.338,177.693
+spotify:track:7JXZq0JgG2zTrSOAgY8VMC,Jungle,320400,0.697,0.235,7,-8.651,0.0534,0.62,0.000144,0.107,0.378,99.947
+spotify:track:5Ggfa9cpkpfp5D6Rg0Yyw1,Come Thru,236360,0.472,0.468,3,-5.815,0.184,0.163,0.0,0.586,0.404,81.94
+spotify:track:3aJkV6DUTSCqOwVwaBDG9B,With You,195053,0.878,0.406,1,-9.961,0.248,0.134,0.000234,0.112,0.784,128.014
+spotify:track:5JUu0unA8VwhTZ9LkMWUVI,Since Way Back,368036,0.468,0.266,0,-11.121,0.13,0.348,9.55e-06,0.209,0.222,153.294
+spotify:track:6Z01gUquJsjJC67uNWm6P0,Shot For Me,224720,0.566,0.465,2,-11.714,0.235,0.0555,0.0,0.567,0.177,143.015
+spotify:track:3cjF2OFRmip8spwZYQRKxP,Feel No Ways,240653,0.582,0.677,7,-7.081,0.172,0.0312,6.6e-06,0.122,0.205,193.818
+spotify:track:2FbGlEPAjNhWvrVvlentVq,Cameras / Good Ones Go Interlude - Medley,434960,0.441,0.403,2,-11.18,0.147,0.255,1.27e-05,0.13,0.158,139.92
+spotify:track:3XLSlQLJf3Ut0zvMUxnF1h,Houstatlantavegas,290791,0.683,0.695,1,-6.798,0.0574,0.393,0.00124,0.124,0.406,135.337
+spotify:track:74atKkOasLOVzvqB6mYgga,The Real Her,321080,0.567,0.309,8,-14.254,0.385,0.166,0.0,0.12,0.509,65.041
+spotify:track:44Du2IM1bGY7dicmLfXbUs,Final Fantasy,219960,0.5,0.449,0,-10.977,0.442,0.422,7.96e-06,0.115,0.104,144.206
+spotify:track:6MR5IBSNfDmiwnrlQpVw4w,Club Paradise,283816,0.338,0.729,6,-6.419,0.102,0.758,3.24e-05,0.18,0.543,184.174
+spotify:track:6fLVTVaHWaEfVKfEgbkf4D,Losses,271184,0.551,0.57,1,-7.385,0.351,0.28,0.0,0.424,0.505,85.687
+spotify:track:3EJ9ZuqkL1kwgouugqsLu8,Own It,252053,0.652,0.345,8,-11.319,0.119,0.0437,3.59e-05,0.297,0.304,103.281
+spotify:track:34D6FJysnQioVingDKufuf,N 2 Deep,273578,0.507,0.429,2,-7.726,0.326,0.0518,0.0,0.109,0.0744,91.0
+spotify:track:4SCnCPOUOUXUmCX2uHb3r7,Outta Time (feat. Drake),198822,0.714,0.582,5,-7.272,0.0808,0.0129,0.0,0.0774,0.338,92.819
+spotify:track:1wZqJM5FGDEl3FjHDxDyQd,Come and See Me (feat. Drake),235477,0.717,0.347,11,-10.265,0.0636,0.0511,2.43e-06,0.087,0.0589,84.987
+spotify:track:13e6f8t7RKXuxZ0JdaaJRG,Jorja Interlude,107673,0.735,0.373,11,-10.478,0.104,0.762,0.00202,0.288,0.237,123.081
+spotify:track:4i3GraNMzBKze1WsVl38DS,Bria's Interlude (feat. Omarion),139575,0.49,0.507,2,-6.205,0.0849,0.209,0.00104,0.119,0.237,147.037
+spotify:track:4OkiWfrZKmmVoILXk8JEtl,In The Morning,234387,0.44,0.671,3,-10.598,0.477,0.764,0.0,0.212,0.479,83.078
+spotify:track:3RkNXZvOSMMElmmXztDc94,F*****g Fans,245131,0.783,0.416,4,-9.84,0.135,0.213,0.0,0.103,0.165,87.073
+spotify:track:2vy9Ry1TNjCD85TiCbTz0r,Liability,237933,0.557,0.706,0,-6.592,0.0649,0.268,0.0,0.132,0.582,105.013
+spotify:track:0sSRLXxknVTQDStgU1NqpY,Hours In Silence,399154,0.501,0.403,6,-11.106,0.119,0.234,0.0,0.267,0.111,118.352
+spotify:track:7aRCf5cLOFN1U7kvtChY1G,Search & Rescue,272113,0.817,0.44,10,-8.482,0.0734,0.0603,1.42e-06,0.33,0.544,142.024
+spotify:track:3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),218365,0.529,0.673,0,-4.711,0.175,0.000307,2.41e-06,0.093,0.366,165.921
+spotify:track:0k1WUmIRnG3xU6fvvDVfRG,Way 2 Sexy (with Future & Young Thug),257605,0.803,0.597,11,-6.035,0.141,0.000619,4.5e-06,0.323,0.331,136.008
+spotify:track:7jslhIiELQkgW9IHeYNOWE,Big Rings,217707,0.776,0.675,8,-6.224,0.266,0.00196,0.0,0.227,0.27,131.984
+spotify:track:7GeTsDIc5ykNB6lORO6Cee,Circo Loco,236795,0.734,0.605,1,-8.476,0.0699,0.0102,0.0,0.317,0.252,103.976
+spotify:track:6wWaVoUOzLQJHd3bWAUpdZ,"Never Recover (Lil Baby & Gunna, Drake)",194732,0.753,0.686,1,-5.415,0.284,0.0677,0.0,0.193,0.886,132.055
+spotify:track:0XGLsSU6wtfnKXiMNvQr61,Versace (Remix),246047,0.845,0.705,6,-4.271,0.243,0.0218,0.0,0.339,0.334,132.05
+spotify:track:4rmVZajAF7PkrCagGPHbqa,Sticky,243228,0.853,0.495,6,-14.63,0.14,0.0917,0.000217,0.0844,0.0774,137.027
+spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,Look Alive (feat. Drake),181263,0.922,0.581,10,-7.495,0.27,0.00104,5.86e-05,0.105,0.595,140.022
+spotify:track:5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),205427,0.831,0.502,10,-4.045,0.046,0.101,0.0,0.122,0.101,100.541
+spotify:track:27GmP9AWRs744SzKcpJsTZ,Jumpman,205879,0.852,0.553,1,-7.286,0.187,0.0559,0.0,0.332,0.656,142.079
+spotify:track:2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),180522,0.889,0.496,4,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003
+spotify:track:28JBD8p18xNuOfyV7Cotdn,Massive,336924,0.499,0.671,4,-6.774,0.0561,0.114,0.0169,0.148,0.0557,124.994
+spotify:track:6HfOzLLjsaXsehIFEsrxTk,Trophies,188320,0.746,0.687,1,-7.475,0.382,0.155,0.0,0.137,0.283,143.931
+spotify:track:156LzfvMNKuXuiot4uzhGD,No Complaints (feat. Offset & Drake) (Bonus),265480,0.914,0.572,2,-8.82,0.166,0.0709,0.00237,0.0599,0.203,123.963
+spotify:track:04MLEeAMuV9IlHEsD8vF6A,No Stylist (feat. Drake),192172,0.765,0.704,5,-4.589,0.127,0.0215,0.0,0.227,0.498,147.055
+spotify:track:6n4U3TlzUGhdSFbUUhTvLP,Walk It Talk It,276147,0.907,0.633,2,-5.145,0.184,0.0876,2.6e-06,0.106,0.395,145.914
+spotify:track:3qN5qMTKyEEmiTZD38BNTT,I'm Upset,214467,0.899,0.586,11,-7.866,0.343,0.279,0.0,0.0836,0.492,150.002
+spotify:track:6vN77lE9LK6HP2DewaN6HZ,Yes Indeed,142273,0.963,0.346,5,-9.309,0.53,0.0355,0.0,0.108,0.562,119.957
+spotify:track:127QTOFJsJQp5LbJbu3A1y,Toosie Slide,247059,0.834,0.454,1,-9.75,0.201,0.321,6.15e-06,0.114,0.837,81.618
+spotify:track:6LxSe8YmdPxy095Ux6znaQ,Headlines,235987,0.636,0.566,6,-7.16,0.106,0.365,0.000353,0.0917,0.425,151.894
+spotify:track:0TlLq3lA83rQOYtrqBqSct,Nonstop,238614,0.912,0.412,7,-8.074,0.123,0.0165,0.0126,0.104,0.423,154.983
+spotify:track:5r7WvQtyPfy1xch5zMgGRp,Behind Barz - Bonus,163121,0.854,0.554,8,-4.684,0.172,0.769,1.84e-06,0.0749,0.272,142.069
+spotify:track:6DCZcSspjsKoFjzjrWoCdn,God's Plan,198973,0.754,0.449,7,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169
+spotify:track:5S1IUPueD0xE0vj4zU3nSf,Bigger Than You (feat. Drake & Quavo),225893,0.888,0.515,1,-6.246,0.271,0.247,0.0,0.446,0.264,141.009
+spotify:track:5tFep7dXGd7vEJ668wTPux,Both (feat. Drake),190312,0.85,0.405,7,-7.509,0.225,0.119,0.000118,0.0707,0.344,139.976
+spotify:track:1rlIrbWboTRGeKfHhgbJRZ,FLIP THE SWITCH (feat. Drake),156195,0.853,0.637,3,-5.924,0.331,0.129,0.0,0.267,0.496,86.048
+spotify:track:6Kj17Afjo1OKJYpf5VzCeo,Pain 1993 (with Playboi Carti),149078,0.825,0.373,5,-5.532,0.108,0.163,0.0,0.368,0.12,77.271
+spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,217925,0.835,0.626,1,-5.833,0.125,0.0589,6e-05,0.396,0.35,91.03
+spotify:track:5InOp6q2vvx0fShv3bzFLZ,Know Yourself,275840,0.72,0.412,11,-8.687,0.223,0.196,0.0,0.342,0.179,114.408
+spotify:track:79XrkTOfV1AqySNjVlygpW,Energy,181933,0.747,0.571,11,-7.916,0.478,0.38,0.0,0.534,0.553,172.104
+spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc,Life Is Good (feat. Drake),237735,0.676,0.609,2,-5.831,0.481,0.0706,0.0,0.152,0.508,142.037
+spotify:track:4X5f3vT8MRuXF68pfjNte5,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",233787,0.853,0.693,1,-6.87,0.275,0.0239,0.0,0.11,0.662,95.967
+spotify:track:7qLnSuxwLNlcapat8OCWZp,Ela É do Tipo (feat. Drake) - Remix,212433,0.576,0.524,6,-5.428,0.24,0.89,0.0,0.108,0.715,99.387
+spotify:track:116H0KvKr2Zl4RPuVBruDO,MIA (feat. Drake),210368,0.817,0.539,6,-6.349,0.0621,0.0141,0.000496,0.099,0.158,97.062
+spotify:track:72TFWvU3wUYdUuxejTTIzt,Work,219320,0.725,0.534,11,-6.238,0.0946,0.0752,0.0,0.0919,0.558,91.974
+spotify:track:23NWj2izXAJ4yL6Nah73wf,Pop Style,209453,0.789,0.488,4,-9.093,0.227,0.179,7.94e-06,0.104,0.0644,133.114
+spotify:track:78sr3ogs4UzITcCNbXM9cM,Used to This (feat. Drake),180520,0.618,0.727,3,-7.224,0.208,0.0312,0.0,0.196,0.401,164.992
+spotify:track:7wsmIIm0xWmtP7TmACXkJn,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),206702,0.836,0.617,0,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066
+spotify:track:5UsLjwBaTHBX4ektWIr4XX,Forever,357707,0.457,0.906,5,-2.278,0.342,0.249,0.0,0.182,0.54,104.02
+spotify:track:0lEjxUUlKqjqXrVlIHFduD,P power (feat. Drake),193347,0.828,0.591,1,-6.217,0.109,0.0199,0.000323,0.361,0.202,119.251
+spotify:track:43uQtNJUmlEdJtjbz6GdGL,No Shopping (feat. Drake),227727,0.895,0.491,10,-10.261,0.246,0.0144,0.000988,0.143,0.249,83.505
+spotify:track:1uDjaezEbalGyGnuH80zDK,Who Do You Love?,233507,0.676,0.415,9,-9.752,0.508,0.0281,0.0,0.0915,0.146,193.206
+spotify:track:4ezAjoV01phDz1SqO6SzEU,Why You Always Hatin?,196587,0.925,0.355,0,-9.309,0.55,0.0413,0.0,0.141,0.383,92.988
+spotify:track:4GVD0FIBo08FSAy3tbIY7g,Pop That,303533,0.734,0.892,2,-1.856,0.125,0.0648,0.0,0.58,0.605,138.031
+spotify:track:0nq6sfr8z1R5KJ4XUk396e,Stay Schemin,267720,0.541,0.734,7,-4.232,0.166,0.0621,0.0,0.12,0.321,162.304
+spotify:track:608a1wIsSd5KzMEqm1O7w3,I'm On One,296147,0.413,0.807,11,-3.499,0.318,0.0536,0.0,0.631,0.438,149.33
+spotify:track:4Kz4RdRCceaA9VgTqBhBfa,The Motto,181573,0.766,0.442,1,-8.558,0.356,0.000107,6.12e-05,0.111,0.39,201.8
+spotify:track:2ZRJRe82aZaVhOKKlbJr4v,Summer Sixteen,202451,0.595,0.46,1,-7.607,0.396,0.00354,2.76e-05,0.147,0.0542,144.988
+spotify:track:2SAqBLGA283SUiwJ3xOUVI,Laugh Now Cry Later (feat. Lil Durk),261493,0.761,0.518,0,-8.871,0.134,0.244,3.47e-05,0.107,0.522,133.976
+spotify:track:6EDO9iiTtwNv6waLwa1UUq,POPSTAR (feat. Drake),200221,0.8,0.56,5,-4.818,0.261,0.057,0.0,0.134,0.45,163.071
+spotify:track:3aQem4jVGdhtg116TmJnHz,What’s Next,178154,0.781,0.594,0,-6.959,0.0485,0.0136,0.0,0.162,0.0628,129.895
+spotify:track:4Q34FP1AT7GEl9oLgNtiWj,Mr. Right Now (feat. Drake),193839,0.647,0.667,5,-5.563,0.304,0.231,0.0,0.133,0.704,172.08
+spotify:track:6Ylhyp6ZL9SY7EdaRZ0k9o,Only You Freestyle,249627,0.674,0.692,5,-7.337,0.262,0.574,0.0,0.228,0.801,147.03
+spotify:track:05aZ9sAU1YXndHv0FMi9iW,Demons (feat. Fivio Foreign & Sosa Geek),204805,0.543,0.766,0,-3.387,0.343,0.423,0.0,0.155,0.729,106.869
+spotify:track:7rC5Pl8rQSX4myONQHYPBK,Mob Ties,205147,0.754,0.575,4,-8.393,0.0682,0.045,0.00131,0.276,0.491,86.009
+spotify:track:4mOkfIYbMX9PXx27hj8NTi,Betrayal (feat. Drake),152025,0.74,0.564,8,-6.71,0.0688,0.0126,0.0,0.126,0.129,158.114
+spotify:track:3yaYgjEFkRw3PVjW9mV1TO,Over The Top (feat. Drake),153406,0.833,0.498,10,-5.196,0.117,0.0493,0.0,0.119,0.259,139.928
+spotify:track:2NM0qHzx4Ohy8iXHEEgwlO,Having Our Way (feat. Drake),278191,0.927,0.538,1,-3.917,0.116,0.0312,0.0,0.0945,0.221,125.983
+spotify:track:6rTInqW3YECMkQsBEHw4sd,Solid (feat. Drake),215693,0.887,0.485,11,-9.358,0.2,0.0392,0.0,0.141,0.328,125.987
+spotify:track:4KDNRh9Oor80z3XIxdWlui,Bubbly (with Drake & Travis Scott),165067,0.91,0.585,11,-7.572,0.257,0.0536,0.0,0.127,0.599,129.011
+spotify:track:2BcMwX1MPV6ZHP4tUT9uq6,Knife Talk (with 21 Savage ft. Project Pat),242966,0.849,0.424,5,-9.579,0.324,0.0635,0.0,0.0834,0.153,145.887
+spotify:track:65OVbaJR5O1RmwOQx0875b,Wants and Needs (feat. Lil Baby),192956,0.578,0.449,1,-6.349,0.286,0.0618,2.17e-06,0.119,0.1,136.006
+spotify:track:6wyhUr4Xw8z5uSy0AhoZfU,I'M ON ONE (feat. Drake),236187,0.773,0.707,11,-5.71,0.0568,0.0103,1.04e-05,0.296,0.113,76.977
+spotify:track:1bDbXMyjaUIooNwFE9wn0N,Rich Flex,239360,0.561,0.52,11,-9.342,0.244,0.0503,1.86e-06,0.355,0.424,153.15
+spotify:track:0wshkEEcJUQU33RSRBb5dv,BackOutsideBoyz,152962,0.849,0.433,5,-8.434,0.316,0.0407,0.0,0.388,0.395,142.11
+spotify:track:45pUWUeEWGoSdH6UF162G8,Broke Boys,225439,0.642,0.533,2,-7.45,0.266,0.0104,0.000108,0.251,0.112,120.041
+spotify:track:29YW2xXlo6Pc6M0SBTCXYN,More M’s,221406,0.704,0.504,1,-6.749,0.223,0.0405,0.000422,0.139,0.0713,82.537
+spotify:track:2KLwPaRDOB87XOYAT2fgxh,Pussy & Millions (feat. Travis Scott),242027,0.749,0.63,4,-6.652,0.116,0.0623,0.0,0.353,0.445,122.03
+spotify:track:34tz0eDhGuFErIuW3q4mPX,On BS,261544,0.841,0.358,9,-8.368,0.591,0.0201,0.0,0.39,0.329,158.014
