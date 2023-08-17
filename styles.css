@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Adjust spacing between preview boxes */
+.preview-box-container {
+    margin-bottom: -10px;
+}
+
+/* Style for each preview box */
+.preview-box {
+    margin-bottom: 10px;
+}
+
+/* Custom styling for the embedded Spotify player */
+.custom-iframe-container {
+    margin-top: 0; /* Adjust as needed */
+    margin-bottom: 0; /* Adjust as needed */
+    padding: 0; /* Adjust as needed */
+    width: 300px; /* Width of the player */
+    height: 80px; /* Height of the player */
+}
