@@ -5,3 +5,6 @@ __pycache__
 data/
 tracks_features.csv
 notebook_test.ipynb
+cosine_similarity.png
+flowchart.png
+euclidean_distance.png
