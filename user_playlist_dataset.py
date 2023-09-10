@@ -35,7 +35,7 @@ for j, playlist in enumerate(playlist_ids):
         # Get track details including artist information
         track_details = sp.track(track_id)
         artists = track_details['artists']
-
+        
         # Check if any artist for the track is Drake
         if any(artist['name'] == 'Drake' for artist in artists):
             playlist_data.append(
@@ -53,6 +53,7 @@ for j, playlist in enumerate(playlist_ids):
                     'liveness': audio_features[i]['liveness'],
                     'valence': audio_features[i]['valence'],
                     'tempo': audio_features[i]['tempo'],
+                    'artist' : artists[0]['name']
                 }
             )
 

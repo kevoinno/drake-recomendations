@@ -48,7 +48,6 @@ def main():
         print("Drake song not found. Please try another song.")
         exit()
     
-    print(search_results)
     # Get index of target song
     target_song_index = df.index[df['track_name'] == search_results['tracks']['items'][0]['name']].tolist()[0]
 
