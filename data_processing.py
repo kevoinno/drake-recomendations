@@ -62,6 +62,7 @@ for i, track in enumerate(drake_tracks):
 
 # Assemble the data into a DataFrame
 df = pd.DataFrame(drake_tracks)
+df = df.drop_duplicates()
 
 # Export the DataFrame to a CSV file
 df.to_csv('drake_songs_dataset.csv', index=False)
