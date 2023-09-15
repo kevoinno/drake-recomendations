@@ -2,6 +2,7 @@ import pandas as pd
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import creds  # Import your credentials from a separate file
+import re
 
 # Helper function that checks if Drake is an artist for the track. Return bool
 def is_drake_song(track):
@@ -61,7 +62,7 @@ for track in all_tracks:
             'instrumentalness': None,
             'liveness': None,
             'valence': None,
-            'tempo': None,
+            'tempo': None
         })
 
 # Fill in audio features for each track
@@ -71,7 +72,9 @@ for i, track in enumerate(drake_tracks):
 
 # Assemble the data into a DataFrame
 df = pd.DataFrame(drake_tracks)
-df = df.drop_duplicates()
+df['track_name'] = df['track_name'].apply(lambda x: re.sub('\'', "’", x))
+
+df = df.drop_duplicates(subset = 'track_name')
 
 # Export the DataFrame to a CSV file
 df.to_csv('drake_songs_dataset.csv', index=False)
