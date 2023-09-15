@@ -3,6 +3,14 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import creds  # Import your credentials from a separate file
 
+# Helper function that checks if Drake is an artist for the track. Return bool
+def is_drake_song(track):
+    for artist in track['artists']:
+        if artist['name'] == 'Drake':
+            return True
+    return False
+
+
 # Initialize the Spotify API client with client credentials
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=creds.CLIENT_ID, client_secret=creds.CLIENT_SECRET))
 
@@ -38,22 +46,23 @@ while True:
 drake_tracks = []
 
 for track in all_tracks:
-    drake_tracks.append({
-        'track_uri': track['uri'],
-        'track_name': track['name'],
-        'album_name': track['album']['name'],
-        'duration_ms': track['duration_ms'],
-        'danceability': None,  # Placeholder for audio features (to be fetched later)
-        'energy': None,
-        'key': None,
-        'loudness': None,
-        'speechiness': None,
-        'acousticness': None,
-        'instrumentalness': None,
-        'liveness': None,
-        'valence': None,
-        'tempo': None,
-    })
+    if is_drake_song(track):
+        drake_tracks.append({
+            'track_uri': track['uri'],
+            'track_name': track['name'],
+            'album_name': track['album']['name'],
+            'duration_ms': track['duration_ms'],
+            'danceability': None,  # Placeholder for audio features (to be fetched later)
+            'energy': None,
+            'key': None,
+            'loudness': None,
+            'speechiness': None,
+            'acousticness': None,
+            'instrumentalness': None,
+            'liveness': None,
+            'valence': None,
+            'tempo': None,
+        })
 
 # Fill in audio features for each track
 for i, track in enumerate(drake_tracks):
