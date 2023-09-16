@@ -6,6 +6,8 @@ import pandas as pd
 import creds
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+from recommender_v2 import get_user_track
+from recommender_v2 import cosine_recs
 
 st.markdown(
     """
@@ -14,30 +16,15 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+# Read in song dataset
 df = pd.read_csv('drake_songs_dataset.csv')
-df_all_cols = df.copy()
 
-
-#function that will output recommendations on the streamlit app
-def streamlit_recs(user_input, n_songs, df):
-    selected_features = [
+# Get features we want to include in the cosine similarity calculation
+features = [
         'danceability', 'energy', 'key', 'loudness',
         'speechiness', 'acousticness', 'instrumentalness', 
         'liveness', 'valence', 'tempo'
     ]
-
-    df_all_cols = df.copy()
-
-    input_features = make_api_call(creds.CLIENT_ID, creds.CLIENT_SECRET, user_input)
-
-    df = df[df['track_uri'] != input_features['uri']]
-    df = df[selected_features].copy()
-
-    user_features, dataset_features = preprocess_data(input_features, df, selected_features)
-
-    recommended_songs = recommender(user_features, dataset_features, df_all_cols, n_songs)
-
-    return recommended_songs
 
 # 3 columns
 col1, col2, col3 = st.columns(3)
@@ -62,6 +49,9 @@ user_input_container = st.container()
 with user_input_container:
     col1, col2 = st.columns(2)
     with col1:
+        # Give users an option to choose recommendation system
+        model = st.selectbox('Choose a recommendation system: ', ['Cosine similarity'])
+
         # Autocomplete searchbox for music
         user_input = st_searchbox(
             label="Search for a song: ", search_function=get_suggestions
@@ -75,7 +65,8 @@ with user_input_container:
 
     if rec_button:
         with col2:
-            song_output = streamlit_recs(user_input, n_songs, df)
+            if model == 'Cosine similarity':
+                song_output = cosine_recs(df, features, n_songs, user_input)
             st.write('You should check out:')
             
             # Embed Spotify Web Playback SDK for each recommended track
