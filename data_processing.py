@@ -72,7 +72,7 @@ for i, track in enumerate(drake_tracks):
 
 # Assemble the data into a DataFrame
 df = pd.DataFrame(drake_tracks)
-df['track_name'] = df['track_name'].apply(lambda x: re.sub('\'', "’", x))
+df['track_name'] = df['track_name'].apply(lambda x: re.sub('’', "\'", x))
 
 df = df.drop_duplicates(subset = 'track_name')
 

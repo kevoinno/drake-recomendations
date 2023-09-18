@@ -8,6 +8,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from recommender_v2 import get_user_track
 from recommender_v2 import cosine_recs
+from recommender_v2 import euclidean_recs
 
 st.markdown(
     """
@@ -50,7 +51,7 @@ with user_input_container:
     col1, col2 = st.columns(2)
     with col1:
         # Give users an option to choose recommendation system
-        model = st.selectbox('Choose a recommendation system: ', ['Cosine similarity'])
+        model = st.selectbox('Choose a recommendation system: ', ['Cosine similarity', 'Euclidean distance'])
 
         # Autocomplete searchbox for music
         user_input = st_searchbox(
@@ -67,6 +68,8 @@ with user_input_container:
         with col2:
             if model == 'Cosine similarity':
                 song_output = cosine_recs(df, features, n_songs, user_input)
+            elif model == 'Euclidean distance':
+                song_output = euclidean_recs(df, features, n_songs, user_input)
             st.write('You should check out:')
             
             # Embed Spotify Web Playback SDK for each recommended track
