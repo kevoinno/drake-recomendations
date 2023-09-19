@@ -6,11 +6,11 @@ import pandas as pd
 import creds
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from recommender_v2 import get_user_track
 from recommender_v2 import cosine_recs
 from recommender_v2 import euclidean_recs
 
 st.markdown(
+
     """
     <link rel="stylesheet" type="text/css" href="styles.css">
     """,
@@ -57,7 +57,7 @@ with user_input_container:
         user_input = st_searchbox(
             label="Search for a song: ", search_function=get_suggestions
         )
-        
+        st.write(user_input)
         # Slider to determine # of recommended songs
         n_songs = st.slider('Number of songs to recommend', min_value=1, max_value=5, value=3, step=1)
 
@@ -67,9 +67,9 @@ with user_input_container:
     if rec_button:
         with col2:
             if model == 'Cosine similarity':
-                song_output = cosine_recs(df, features, n_songs, user_input)
+                song_output = cosine_recs(df, features, n_songs, str(user_input))
             elif model == 'Euclidean distance':
-                song_output = euclidean_recs(df, features, n_songs, user_input)
+                song_output = euclidean_recs(df, features, n_songs, str(user_input))
             st.write('You should check out:')
             
             # Embed Spotify Web Playback SDK for each recommended track
